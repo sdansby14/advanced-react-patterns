@@ -1,0 +1,28 @@
+Destructuring :
+	A convenient way to extract multiple keys from an object or array simultaneously and assign the values to local variables.
+	(Vanilla Javascript - not react)
+	Ex: (props) to (name, animal, breed)
+
+Hooks:
+	All Hooks begin with "use"
+	Ex: "useState", "useEffect"
+
+Effects:
+	The lifecycle of React
+	"useEffect"
+
+Reach Router
+	Better than react router
+
+Preact
+	Faster download speeds for slower networks 
+	i.e. 2g/3g
+Context
+	 Context is like state, but instead of being confined to a component, it's global to your application. 
+         It's application-level state.
+
+memo (not useMemo)
+	As lon as none of my properties have changed don't rerender me.
+	
+Downshift:
+	autocomplete api
